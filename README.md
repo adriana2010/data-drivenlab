@@ -13,4 +13,3 @@ Power BI, Tableau, Looker Studio
 You can reach me at [LinkedIn] https://www.linkedin.com/in/adrianachirinos/ [GitHub] https://github.com/adriana2010/
 
 # Projects
-
